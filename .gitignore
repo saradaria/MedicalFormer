@@ -1,0 +1,5 @@
+*.model.2pkl
+*.model.pkl
+*.model
+*.pkl
+*.nii.gz
